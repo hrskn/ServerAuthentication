@@ -1,0 +1,2 @@
+# ServerAuthentication
+Boilerplate for server authentication
